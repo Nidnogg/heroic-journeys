@@ -1,14 +1,16 @@
-# mood drone
+# heroic journeys
 ![](https://i.imgur.com/hlVTvhQ.png)
 
-[Live demo available!](https://nidnogg.github.io/mood-drone)
+[Live demo available!](https://nidnogg.github.io/heroic-journeys)
 
-Mood Drone is an open source, happy little web app mimicking a radio widget. It is inspired on Docubyte's phenomenal [Guide to Computing.](https://www.docubyte.com/works/guide-to-computing/)
+heroic journeys is an open source web app showcasing the brilliant work of [Luis Felipe Coimbra Costa](https://scholar.google.com/citations?user=ZxKTRWkAAAAJ&hl=pt-BR) for his doctorate studies. It is inspired by the [Hero's Journey.](https://en.wikipedia.org/wiki/Hero%27s_journey)
 
-It supports user defined alarms and it's mostly intended to play moody songs that would lull the user to a healthy night's sleep.
+It also incorporates the work of Henrique Vermelho's [Mood Drone](https://nidnogg.github.io/mood-drone)
 
 ## Contributors
 This app was made possible by the help of:
+* [Luis Felipe Coimbra Costa](https://github.com/luisfcosta2015), the mastermind behind it all
+
 * [Itoroabasi Unang](https://github.com/unangity), who solved the loop issue
 ## Usage
 
