@@ -1,5 +1,5 @@
 {
-  "name": "mood-drone",
+  "name": "heroic-journeys",
   "version": "1.0.0",
   "description": "",
   "private": "true",
@@ -7,13 +7,13 @@
   "scripts": {
     "clean": "rm dist/bundle.js",
     "dev": "parcel serve public/index.html --port 3000",
-    "build": "parcel build public/index.html --public-url /mood-drone",
+    "build": "parcel build public/index.html --public-url /heroic-journeys",
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nidnogg/mood-drone.git"
+    "url": "git+https://github.com/Nidnogg/heroic-journeys.git"
   },
   "keywords": [
     "mood",
@@ -22,9 +22,9 @@
   "author": "nidnogg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Nidnogg/mood-drone/issues"
+    "url": "https://github.com/Nidnogg/heroic-journeys/issues"
   },
-  "homepage": "https://github.com/Nidnogg/mood-drone",
+  "homepage": "https://github.com/Nidnogg/heroic-journeys",
   "dependencies": {
     "@svgr/parcel-plugin-svgr": "^4.3.3",
     "css": "^2.2.4",
